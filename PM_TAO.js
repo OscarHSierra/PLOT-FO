@@ -48,7 +48,7 @@ function ayuda()
     else
     {
         aux=aux+1;
-        r2.innerHTML="Este programa calcula el valor de la constante de tiempo de un sistema de primer orden, su ganancia, y tiempo de estabilización, a partir de su función de transferencia";
+        r2.innerHTML="Este programa permite graficar un sistema de primer orden a partir de su función de transferencia, el software elije automaticamente el tiempo de muestreo y el tamaño de los ejes para tener siempre una visualización optima.";
     }
     
 }
